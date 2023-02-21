@@ -22,7 +22,7 @@ Max Sell Fee = 0.0006% (12,600 $PANGS)
 3% of every Buy transaction will go directly to locked liquidity \
 7% of every Sell transaction will go back to locked liquidity \
 3% of every Buy transaction will go directly back to the holders of $PANGS \
-5% of every Sell transaction will go back to the holders of $PANGS in BUSD Rewards \
+5% of every Sell transaction will go back to the holders of $PANGS in BNB Rewards \
 1% of every Buy transaction will go directly to the marketing wallet to ensure the future of the this project \
 3% of every Sell transaction will go go directly to the marketing wallet to ensure the future of the this project \
 \
