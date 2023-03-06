@@ -8,16 +8,17 @@ description: >-
 # 🪙 Token Info & Taxes
 
 Total Supply = 21,000,000 \
-Tokens for Private Sale = 1,260,000\
-Tokens for Presale = 10,500,000\
+Tokens for Presale = 8,400,000\
 Tokens for Pancake Swap = 6,090,000\
+Tokens for the Team = 2,100,000\
+Tokens for Private Sale = 1,260,000\
 Tokens for Staking = 1,050,000\
 Tokens for Mandala Exchange = 1,050,000\
 Tokens For NFT Staking = 1,050,000 \
 Team Tokens = 0\
 Buy Tax Fee = 7% \
 Sell Tax Fee = 15% \
-Max Sell Fee = 0.0006% (12,600 $PANGS)
+Max Sell Fee = 6 BNB (12,600 $PANGS)
 
 3% of every Buy transaction will go directly to locked liquidity \
 7% of every Sell transaction will go back to locked liquidity \

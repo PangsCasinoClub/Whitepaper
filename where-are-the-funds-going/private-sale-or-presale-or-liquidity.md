@@ -10,10 +10,10 @@ Funds Raised from Private Sale will be for Marketing:\
 300 BNB - 600 BNB \
 \
 Funds Raised from Presale for Liquidity:\
-2550 BNB - 4250 BNB\
+1700 BNB - 3400 BNB\
 \
 Funds Raised from Presale for Bankroll and Marketing\
-450 BNB - 750 BNB\
+300 BNB - 600 BNB\
 \
 Liquidity Lock Date: June 15, 2030\
 \
