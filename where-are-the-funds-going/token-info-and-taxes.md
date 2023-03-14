@@ -15,7 +15,6 @@ Tokens for Private Sale = 1,260,000\
 Tokens for Staking = 1,050,000\
 Tokens for Mandala Exchange = 1,050,000\
 Tokens For NFT Staking = 1,050,000 \
-Team Tokens = 0\
 Buy Tax Fee = 7% \
 Sell Tax Fee = 15% \
 Max Sell Fee = 6 BNB (12,600 $PANGS)
