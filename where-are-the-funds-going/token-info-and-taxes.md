@@ -15,16 +15,15 @@ Tokens for Private Sale = 1,260,000\
 Tokens for Staking = 1,050,000\
 Tokens for Mandala Exchange = 1,050,000\
 Tokens For NFT Staking = 1,050,000 \
-Buy Tax Fee = 7% \
-Sell Tax Fee = 15% \
+Buy Tax Fee = 4% \
+Sell Tax Fee = 8% \
 Max Sell Fee = 6 BNB (12,600 $PANGS)
 
-3% of every Buy transaction will go directly to locked liquidity \
-7% of every Sell transaction will go back to locked liquidity \
+1% of every Buy transaction will go directly to locked liquidity \
+3% of every Sell transaction will go back to locked liquidity \
 3% of every Buy transaction will go directly back to the holders of $PANGS \
 5% of every Sell transaction will go back to the holders of $PANGS in BNB Rewards \
-1% of every Buy transaction will go directly to the marketing wallet to ensure the future of the this project \
-3% of every Sell transaction will go go directly to the marketing wallet to ensure the future of the this project \
+\
 \
 \
 Minimum Contribute for Private Sale: 1 BNB (2,100 $PANGS)\

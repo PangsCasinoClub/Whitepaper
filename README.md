@@ -11,7 +11,7 @@ coverY: 89
 
 ## Our Mission
 
-> To be the number one Online Crypto Gambling VR Casino. Proving an all-in-one platform for Artists, Gamblers, Streamers, Live Performers, Giveaways, Lottery Giveaways, NFT Marketplace, VR Space, Texas hold-em Tournaments, Entertainment Expos, and Exclusive Parties. We promote high standards and professionalism in the online crypto casino industry. We promote responsible gambling and will offer help to those with gambling addictions.
+> To be the number one Online Crypto Gambling VR Casino. Providing an all-in-one platform for Artists, Gamblers, Streamers, Live Performers, Giveaways, Lottery Giveaways, NFT Marketplace, VR Space, Texas hold-em Tournaments, Entertainment Expos, and Exclusive Parties. We promote high standards and professionalism in the online crypto casino industry. We promote responsible gambling and will offer help to those with gambling addictions.
 
 ## Our Vision
 
