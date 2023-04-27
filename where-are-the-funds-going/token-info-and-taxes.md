@@ -19,10 +19,17 @@ Buy Tax Fee = 4% \
 Sell Tax Fee = 8% \
 Max Sell Fee = 6 BNB (12,600 $PANGS)
 
+\[Marketing]\
+1% of every Buy transaction will go directly to the marketing wallet\
+2% of every Sell transaction will go directly to the marketing wallet\
+\
+\[Liquidity]\
 1% of every Buy transaction will go directly to locked liquidity \
-3% of every Sell transaction will go back to locked liquidity \
-3% of every Buy transaction will go directly back to the holders of $PANGS \
-5% of every Sell transaction will go back to the holders of $PANGS in BNB Rewards \
+2% of every Sell transaction will go back to locked liquidity \
+\
+\[Rewards]\
+2% of every Buy transaction will go directly back to the holders of $PANGS in BNB Rewards\
+4% of every Sell transaction will go back to the holders of $PANGS in BNB Rewards \
 \
 Tokens for the Team will be vested by [Pinksale](https://www.pinksale.finance/)\
 \
