@@ -24,7 +24,7 @@ Max Sell Fee = 6 BNB (12,600 $PANGS)
 3% of every Buy transaction will go directly back to the holders of $PANGS \
 5% of every Sell transaction will go back to the holders of $PANGS in BNB Rewards \
 \
-\
+Tokens for the Team will be vested by [Pinksale](https://www.pinksale.finance/)\
 \
 Minimum Contribute for Private Sale: 1 BNB (2,100 $PANGS)\
 Maximum Contribute for Private Sale: 6 BNB (12,600 $PANGS)\
