@@ -30,7 +30,7 @@
 * [🔷 NFT Staking](utilities/nft-staking.md)
 * [🔷 Token Staking](utilities/token-staking.md)
 * [🔷 Pangs Merch](utilities/pangs-merch.md)
-* [🔷 Mandala Exchange](utilities/mandala-exchange.md)
+* [🔷 Mystery Exchange](utilities/mystery-exchange.md)
 * [🔷 Coin Market Cap](utilities/coin-market-cap.md)
 * [🔷 Coin Gecko](utilities/coin-gecko.md)
 * [🔷 Virtual Reality Experience](utilities/virtual-reality-experience.md)

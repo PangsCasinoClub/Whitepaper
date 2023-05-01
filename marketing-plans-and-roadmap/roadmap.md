@@ -41,7 +41,7 @@ description: All future plans will be done quarterly
 \- Staking Dashboard\
 \- CMC Listed\
 \- CG Listed\
-\- Mandala Exchange Listed\
+\- Mystery Exchange Listed\
 \- Dex Listing\
 \- VR Development\
 \- Marketing Ads and Campaigns\
