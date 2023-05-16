@@ -15,6 +15,6 @@ Funds Raised from Presale for Liquidity:\
 Funds Raised from Presale for Bankroll and Marketing\
 300 BNB - 600 BNB\
 \
-Liquidity Lock Date: June 15, 2030\
+Liquidity Lock Date: October 25, 2030\
 \
 Liquidity Percentage: 85%
