@@ -12,4 +12,4 @@ description: Gives Holders Rewards and Perks
 \
 ✪ NFT Rake back Percentages\
 \
-✪ NFT in real perks&#x20;
+✪ NFT in real life perks&#x20;
