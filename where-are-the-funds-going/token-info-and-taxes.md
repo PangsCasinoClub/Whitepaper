@@ -15,25 +15,25 @@ Tokens for Private Sale = 1,260,000\
 Tokens for Staking = 1,050,000\
 Tokens for Mystery Exchange = 1,050,000\
 Tokens For NFT Staking = 1,050,000 \
-Buy Tax Fee = 4% \
-Sell Tax Fee = 8% \
-Max Sell Fee = 6 BNB (12,600 $PANGS)
+Buy Tax Fee = 3% \
+Sell Tax Fee = 6% \
+Max Sell Fee = 1 ETH (12,600 $PANGS)
 
 \[Marketing]\
-1% of every Buy transaction will go directly to the marketing wallet\
-2% of every Sell transaction will go directly to the marketing wallet\
+0% of every Buy transaction will go directly to the marketing wallet\
+0% of every Sell transaction will go directly to the marketing wallet\
 \
 \[Liquidity]\
 1% of every Buy transaction will go directly to locked liquidity \
 2% of every Sell transaction will go back to locked liquidity \
 \
 \[Rewards]\
-2% of every Buy transaction will go directly back to the holders of $PANGS in BNB Rewards\
-4% of every Sell transaction will go back to the holders of $PANGS in BNB Rewards \
+2% of every Buy transaction will go directly back to the holders of $PANGS in ETH Rewards\
+4% of every Sell transaction will go back to the holders of $PANGS in ETH Rewards \
 \
-Tokens for the Team will be vested by [Pinksale](https://www.pinksale.finance/)\
+Tokens for the Team will be vested by [Gempad](https://gempad.app/home).\
 \
-Minimum Contribute for Private Sale: 1 BNB (2,100 $PANGS)\
-Maximum Contribute for Private Sale: 6 BNB (12,600 $PANGS)\
-Minimum Contribute for Presale: 0.1 BNB (210 $PANGS)\
-Maximum Contribute for Presale: 6 BNB (12,600 $PANGS)
+Minimum Contribute for Private Sale: $250 \
+Maximum Contribute for Private Sale: $1,500 \
+Minimum Contribute for Presale: 0.1 ETH \
+Maximum Contribute for Presale: 1 ETH&#x20;
