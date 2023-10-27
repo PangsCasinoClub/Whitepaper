@@ -7,13 +7,13 @@ description: >-
 # 💲 Private Sale | Presale | Liquidity
 
 Funds Raised from Private Sale will be for Marketing:\
-300 BNB - 600 BNB \
+$75,000  - $150,000 \
 \
 Funds Raised from Presale for Liquidity:\
-1700 BNB - 3400 BNB\
+85 ETH - 170 ETH\
 \
-Funds Raised from Presale for Bankroll and Marketing\
-300 BNB - 600 BNB\
+Funds Raised from Presale for Bankroll and Future Developments\
+15 ETH - 30 ETH\
 \
 Liquidity Lock Date: October 25, 2030\
 \
