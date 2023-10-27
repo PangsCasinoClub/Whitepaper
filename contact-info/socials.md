@@ -1,3 +1,3 @@
 # 🌐 Socials
 
-✪ [https://linktr.ee/pangscasinoclub](https://linktr.ee/pangscasinoclub)
+✪ All socials in one link [https://linkin.bio/pangscasinoclub](https://linkin.bio/pangscasinoclub)
