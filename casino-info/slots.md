@@ -1,5 +1,5 @@
 ---
-description: Over 50+ Providers
+description: Over 50+ Providers and 10,000+ Slots
 ---
 
 # 🎰 Slots
