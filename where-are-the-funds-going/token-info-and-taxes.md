@@ -1,8 +1,8 @@
 ---
 description: >-
-  $PANGS will be on the Binance Smart Chain and you will be able to gamble on
-  the slots with it in the future once we have established top 10,000 rank on
-  certain exchanges
+  $PANGS will be on the Ethereum Blockchain Explorer and you will be able to
+  gamble on the slots with it in the future once we have established top 10,000
+  rank on certain exchanges
 ---
 
 # 🪙 Token Info & Taxes
