@@ -34,7 +34,7 @@
 * [🔷 Coin Market Cap](utilities/coin-market-cap.md)
 * [🔷 Coin Gecko](utilities/coin-gecko.md)
 * [🔷 Virtual Reality Experience](utilities/virtual-reality-experience.md)
-* [🔷 BNB Rewards](utilities/bnb-rewards.md)
+* [🔷 ETH Rewards](utilities/eth-rewards.md)
 
 ## ➡ Contact Info
 
