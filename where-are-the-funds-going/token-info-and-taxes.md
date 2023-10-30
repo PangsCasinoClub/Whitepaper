@@ -9,7 +9,7 @@ description: >-
 
 Total Supply = 21,000,000 \
 Tokens for Presale = 8,400,000\
-Tokens for Pancake Swap = 6,090,000\
+Tokens for UniSwap = 6,090,000\
 Tokens for the Team = 2,100,000\
 Tokens for Private Sale = 1,260,000\
 Tokens for Staking = 1,050,000\
