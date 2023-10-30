@@ -16,9 +16,6 @@ Partnership (DTC Group) Largest and most ambitious marketing agency which provid
 \-Shilling / Moderators / Sales Team\
 \-Crypto Expos / Events Organizing / Booth Set Up\
 \
-&#x20;Partnership (Travladd Crypto Investing) \
-\-Binance Affiliate https://accounts.binance.com/en/register?ref=72550647 \
-\-Telegram Accounts @TRAVLADD @Cryptoadriss \
 \
 Chinese Marketing: \
 \-(https://t.me/cryptoballsy) \
@@ -75,11 +72,10 @@ ADS on SUSBOT: \
 \-Ads on SUSBOT are viewed by 60k+ users and are visible in more than 250 private groups. The ads are also pinned in the SUS calls channels for BSC and ETH. Links (https://t.me/SusScanbot), (https://t.me/SU5calls), (https://t.me/SUSCALLSETH), (https://t.me/heisenman) \
 \
 \
-Pinksale Partnership: \
-\-(https://www.pinksale.finance/) \
+[GemPad Partnership](https://gempad.app/home)\
 \
-KYC \
-\-(https://docs.pinksale.finance/important/pinksale-kyc) \
+[KYC+](https://gempad.gitbook.io/the-gempad/guide-for-project-owners/kyc+-at-gempad)\
+&#x20;\
 \
 Dex Listing (https://www.dextools.io/app/) \
 \-Ads on website \
