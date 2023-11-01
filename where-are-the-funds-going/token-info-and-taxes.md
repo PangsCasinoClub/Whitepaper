@@ -17,7 +17,8 @@ Tokens for Mystery Exchange = 1,050,000\
 Tokens For NFT Staking = 1,050,000 \
 Buy Tax Fee = 3% \
 Sell Tax Fee = 6% \
-Max Sell Fee = 1 ETH (12,600 $PANGS)
+Max Sell Fee = 1 ETH\
+Max Wallet = 21,000 $PANGS
 
 \[Marketing]\
 0% of every Buy transaction will go directly to the marketing wallet\
@@ -33,7 +34,7 @@ Max Sell Fee = 1 ETH (12,600 $PANGS)
 \
 Tokens for the Team will be vested by [Gempad](https://gempad.app/home).\
 \
-Minimum Contribute for Private Sale: $250 \
-Maximum Contribute for Private Sale: $1,500 \
+Minimum Contribute for Private Sale: $300 \
+Maximum Contribute for Private Sale: $1,800 \
 Minimum Contribute for Presale: 0.1 ETH \
 Maximum Contribute for Presale: 1 ETH&#x20;
