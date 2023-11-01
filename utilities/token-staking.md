@@ -10,4 +10,4 @@ description: No token lock up required
 \
 ✪ Fixed Supply\
 \
-✪ Future staking pool rewards will consist of BNB, BTC, USDC, USDT, and more!
+✪ Future staking pool rewards will consist of BNB, BTC, USDC, USDT, ETH and more!
