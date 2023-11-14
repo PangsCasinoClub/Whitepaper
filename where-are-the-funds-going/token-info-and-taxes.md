@@ -36,5 +36,5 @@ Tokens for the Team will be vested by [Gempad](https://gempad.app/home).\
 \
 Minimum Contribute for Private Sale: $300 \
 Maximum Contribute for Private Sale: $1,800 \
-Minimum Contribute for Presale: 0.1 ETH \
+Minimum Contribute for Presale: 0.01 ETH \
 Maximum Contribute for Presale: 1 ETH&#x20;
